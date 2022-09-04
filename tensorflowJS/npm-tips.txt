@@ -1,0 +1,37 @@
+
+
+danyowdeMacBook-Pro:js danyow$ cd local-server
+danyowdeMacBook-Pro:local-server danyow$ ls
+package.json
+danyowdeMacBook-Pro:local-server danyow$ npm install 
+
+added 57 packages, and audited 58 packages in 7s
+
+7 packages are looking for funding
+  run `npm fund` for details
+
+found 0 vulnerabilities
+npm notice 
+npm notice New minor version of npm available! 8.15.0 -> 8.19.1
+npm notice Changelog: https://github.com/npm/cli/releases/tag/v8.19.1
+npm notice Run npm install -g npm@8.19.1 to update!
+npm notice 
+
+danyowdeMacBook-Pro:local-server danyow$ node server.js
+Serving static on 81
+${new Date()} - ${req.method} request for ${req.url}
+${new Date()} - ${req.method} request for ${req.url}
+
+
+
+浏览器设置：
+1. 使用脚本代码
+        <script src="https://cdn.jsdelivr.net/npm/@tensorflow/tfjs@2.0.0/dist/tf.min.js"></script>
+2. 从 NPM 安装并使用诸如 Parcel、WebPack 或 Rollup 的构建工具
+
+指导任务
+https://codelabs.developers.google.com/codelabs/tfjs-training-classfication?hl=zh-cn#1
+
+开启http测试服务器
+终端输入
+python3 -m http.server
