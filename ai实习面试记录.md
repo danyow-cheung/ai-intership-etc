@@ -180,81 +180,117 @@ send(DISCONNECTIO_MSG)
 
 ## 二、python图像识别基础
 
-（一）python图像识别基础
+~~（一）python图像识别基础~~
 
-学习链接：https://blog.csdn.net/galen_xia/category_10346867.html（可自行在OPENCV-PYTHON官网上学习）
+~~学习链接：https://blog.csdn.net/galen_xia/category_10346867.html（可自行在OPENCV-PYTHON官网上学习）~~
 
-学习方法：根据学习链接，学习python图像识别基础（要求：掌握Opencv-python大部分代码案例，跑起来了解即可）
+~~学习方法：根据学习链接，学习python图像识别基础（要求：掌握Opencv-python大部分代码案例，跑起来了解即可）~~
 
-进度：16/33
 
-https://blog.csdn.net/Galen_xia/article/details/108678459
 
 ## 三、tensorflow
 
-（一）tensorflow图像分类
+~~（一）tensorflow图像分类~~
 
-学习链接：https://tensorflow.google.cn/tutorials/images/classification
+~~学习链接：https://tensorflow.google.cn/tutorials/images/classification~~
 
-学习方法：根据学习链接，学习tensorflow图像分类（要求：重现，并能用自己的数据跑）
-
-
+~~学习方法：根据学习链接，学习tensorflow图像分类（要求：重现，并能用自己的数据跑）~~
 
 
 
-（二）tensorflow图像数据增强
+~~（二）tensorflow图像数据增强~~
 
-学习链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
+~~学习链接：https://tensorflow.google.cn/tutorials/images/data_augmentation~~
 
-学习方法：根据学习链接，学习tensorflow图像数据增强（要求：了解其原理，并能重现）
+~~学习方法：根据学习链接，学习tensorflow图像数据增强（要求：了解其原理，并能重现）~~
 
-（三）tensorflow自编码
 
-学习链接：https://tensorflow.google.cn/tutorials/generative/autoencoder
 
-学习方法：根据学习链接，学习tensorflow自编码（要求：重现，并能用自己的数据跑）
 
-（四）tensorflow目标检测
 
-学习链接：自行在百度上搜索
+~~（三）tensorflow自编码~~
 
-学习方法：根据学习链接，学习tensorflow目标检测（要求：YOLO系列，重现，并能用自己的数据跑）
+~~学习链接：https://tensorflow.google.cn/tutorials/generative/autoencoder~~
+
+~~学习方法：根据学习链接，学习tensorflow自编码（要求：重现，并能用自己的数据跑）~~
+
+异常检测结果不好
+
+
+
+~~（四）tensorflow目标检测~~
+
+~~学习链接：自行在百度上搜索~~
+
+~~学习方法：根据学习链接，学习tensorflow目标检测（要求：YOLO系列，重现，并能用自己的数据跑）~~
+
+https://github.com/danyow-cheung/emotion-detection
+
+
 
 （五）tensorflow图像分割
 
-学习链接：https://tensorflow.google.cn/tutorials/images/segmentation
+学习链接：https://tensorflow.org/tutorials/images/segmentation
 
 学习方法：根据学习链接，学习tensorflow图像分割
 
-（要求： （1）基于k-means opencv有案例，可以做图像量化（也是图像分割）
+（**要求**： 
 
-（2）基于tessorflow重现，并能用自己的数据跑 
+~~（1）基于k-means opencv有案例，可以做图像量化（也是图像分割）~~
 
-（3）网上有很火的deeplab v3，也要能重现）
+~~（2）基于tessorflow重现，并能用自己的数据跑~~ 
 
-（六）tensorflow图像数据增强
+~~（3）网上有很火的deeplab v3，也要能重现~~
 
-学习链接：https://tensorflow.google.cn/tutorials/images/data_augmentation
+）
 
-学习方法：根据学习链接，学习tensorflow图像数据增强（要求：了解其原理，并能重现）
+慢慢做。。。。
 
-（七）tensflow JS
 
-学习链接：https://tensorflow.google.cn/js/models
 
-学习方法：根据学习链接，学习tensorflow JS（要求：重现其中2-3个图像识别案例即可）
 
-（八）tensorflow时间预测（LSTM）
 
-学习链接：https://tensorflow.google.cn/tutorials/structured_data/time_series
+~~（六）tensorflow图像数据增强~~
 
-学习方法：根据学习链接，学习tensorflow 时间预测（LSTM）（要求：重现，并能用自己的数据跑；主要是理解LSTM）
+~~学习链接：https://tensorflow.google.cn/tutorials/images/data_augmentation~~
 
-（九）tensorflow文本分类
+~~学习方法：根据学习链接，学习tensorflow图像数据增强（要求：了解其原理，并能重现）~~（重复）
 
-学习链接：https://tensorflow.google.cn/text/tutorials/classify_text_with_bert
 
-学习方法：根据学习链接，学习tensorflow 文本分类（要求: 学习贝叶斯、深度学习两种方法。重现，并能用自己的数据跑）
+
+~~（七）tensflow JS~~
+
+~~学习链接：https://tensorflow.google.cn/js/models~~
+
+~~学习方法：根据学习链接，学习tensorflow JS（要求：重现其中2-3个图像识别案例即可）~~
+
+~~CNN手写识别~~
+
+~~2d数据预测~~
+
+~~构建垃圾评论检测系统(模型不支持mac)~~
+
+~~摄像头~~
+
+
+
+~~（八）tensorflow时间预测（LSTM）~~
+
+~~学习链接：https://tensorflow.google.cn/tutorials/structured_data/time_series~~
+
+~~学习方法：根据学习链接，学习tensorflow 时间预测（LSTM）（要求：重现，并能用自己的数据跑；主要是理解LSTM）~~
+
+最后结果不好
+
+
+
+~~（九）tensorflow文本分类~~
+
+~~学习链接：https://www.tensorflow.org/text/tutorials/classify_text_with_bert~~
+
+~~学习方法：根据学习链接，学习tensorflow 文本分类（要求: 学习贝叶斯、深度学习两种方法。重现，并能用自己的数据跑）~~
+
+
 
 
 
@@ -284,11 +320,11 @@ https://blog.csdn.net/Galen_xia/article/details/108678459
 
 
 
-## 六、python NLP基础（自然语言处理(NLP)就是开发能够理解人类语言的应用程序或服务）
+## ~~六、python NLP基础（自然语言处理(NLP)就是开发能够理解人类语言的应用程序或服务）~~
 
-学习链接：自行在百度上搜索
+~~学习链接：自行在百度上搜索~~
 
-学习方法：学习分词、词向量、文本相似度等（要求：会使用结巴分词(jieba)）
+~~学习方法：学习分词、词向量、文本相似度等（要求：会使用结巴分词(jieba)）~~
 
 --------------------------------
 
@@ -494,4 +530,12 @@ https://github.com/zhengjingwei/machine-learning-interview
 **makefile** ：多个.cpp编译输出可执行文件，数量比cmake少
 
 。还能检测到某个cpp文件有无变化，有变化会另外重新编译
+
+
+
+
+
+
+
+
 
