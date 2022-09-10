@@ -1,0 +1,199 @@
+{
+    "intents": [
+      {
+        "tag": "payment_issue",
+        "responses": [
+          "this is a payment_issue problem"
+        ]
+      },
+
+      {
+        "tag": "create_account",
+        "responses": [
+          "this is a create_account problem"
+        ]
+      },
+      {
+        "tag": "contact_customer_service",
+        "responses": [
+          "this is a contact_customer_service problem"
+        ]
+      },
+      {
+        "tag": "get_invoice",
+        
+        "responses": [
+         "this is a get_invoice problem"
+        ]
+      },
+      {
+        "tag": "track_order",
+        "responses": [
+         "this is a track_order problem"
+        ]
+      },
+      {
+        "tag": "get_refund",
+        "responses": [
+          "this is a get_refund problem"
+        ]
+      },
+
+
+      {
+        "tag": "contact_human_agent",
+       
+        "responses": [
+         "this is a contact_human_agent problem"
+        ]
+      },
+
+
+      {
+        "tag": "check_invoices",
+       
+        "responses": [
+         "this is a check_invoices problem"
+        ]
+      },
+
+
+      {
+        "tag": "recover_password",
+       
+        "responses": [
+         "this is a recover_password problem"
+        ]
+      },
+
+      {
+        "tag": "change_order",
+       
+        "responses": [
+         "this is a change_order problem"
+        ]
+      },
+      {
+        "tag": "delete_account",
+       
+        "responses": [
+         "this is a delete_account problem"
+        ]
+      },
+      {
+        "tag": "complaint",
+       
+        "responses": [
+         "this is a complaint problem"
+        ]
+      },
+      {
+        "tag": "review",
+       
+        "responses": [
+         "this is a review problem"
+        ]
+      },
+      {
+        "tag": "check_refund_policy",
+       
+        "responses": [
+         "this is a check_refund_policy problem"
+        ]
+      },
+      {
+        "tag": "delivery_options",
+       
+        "responses": [
+         "this is a delivery_options problem"
+        ]
+      },
+      {
+        "tag": "check_cancellation_fee",
+       
+        "responses": [
+         "this is a check_cancellation_fee problem"
+        ]
+      },
+      {
+        "tag": "track_refund",
+       
+        "responses": [
+         "this is a track_refund problem"
+        ]
+      },
+      {
+        "tag": "switch_account",
+       
+        "responses": [
+         "this is a switch_account problem"
+        ]
+      },
+      {
+        "tag": "check_payment_methods",
+       
+        "responses": [
+         "this is a check_payment_methods problem"
+        ]
+      },
+      {
+        "tag": "newsletter_subscription",
+       
+        "responses": [
+         "this is a newsletter_subscription problem"
+        ]
+      },
+
+      {
+        "tag": "delivery_period",
+       
+        "responses": [
+         "this is a delivery_period problem"
+        ]
+      },
+
+      {
+        "tag": "edit_account",
+       
+        "responses": [
+         "this is a edit_account problem"
+        ]
+      },
+
+      {
+        "tag": "registration_problems",
+       
+        "responses": [
+         "this is a registration_problems problem"
+        ]
+      },
+      {
+        "tag": "change_shipping_address",
+       
+        "responses": [
+         "this is a change_shipping_address problem"
+        ]
+      },
+      {
+        "tag": "set_up_shipping_address",
+       
+        "responses": [
+         "this is a set_up_shipping_address problem"
+        ]
+      },
+      {
+        "tag": "place_order",
+       
+        "responses": [
+         "this is a place_order problem"
+        ]
+      },
+      {
+        "tag": "cancel_order",
+       
+        "responses": [
+         "this is a cancel_order problem"
+        ]
+      }
+    ]
+  }
