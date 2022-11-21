@@ -503,7 +503,8 @@ https://github.com/zhengjingwei/machine-learning-interview
 >
 > yolov5移植到jetsonnano
 >
-> 用tensorRT跑
+> 用tensorRT跑[终究是不配拥用cuda的人拜]
+> 大概操作都熟悉了只剩下安装cuda
 >
 > https://blog.csdn.net/qq_41204464/article/details/124737245?ops_request_misc=%257B%2522request%255Fid%2522%253A%2522166150980716781647537566%2522%252C%2522scm%2522%253A%252220140713.130102334.pc%255Fall.%2522%257D&request_id=166150980716781647537566&biz_id=0&utm_medium=distribute.pc_search_result.none-task-blog-2~all~first_rank_ecpm_v1~pc_rank_34-2-124737245-null-null.142^v42^pc_rank_34_2,185^v2^control&utm_term=yolov5%20tensorrt%E9%83%A8%E7%BD%B2%E5%88%B0jetson%20nano&spm=1018.2226.3001.4187
 >
